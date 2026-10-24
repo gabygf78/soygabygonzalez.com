@@ -1,11 +1,11 @@
 # El equipo de GabyOS
 
-10 agentes con roles definidos. **Gaby dirige; Lucía coordina; el consejo asesora.**
+10 agentes con roles definidos. **Gaby dirige; Cristina coordina; el consejo asesora.**
 
 ```
                          GABY (decide)
                               │
-                  LUCÍA · Chief of Staff (coordina)
+                  CRISTINA · Chief of Staff (coordina)
                               │
    ┌──────────────┬───────────┼────────────┬──────────────┐
 ESTRATEGIA     CRECIMIENTO   DINERO      ENTREGA       SOPORTE
@@ -17,7 +17,7 @@ Rafael         (Growth)      (CFO)       Olivia (CX)   Automatización)
 
 | Agente | Rol | Estado de la definición |
 |---|---|---|
-| **Lucía** | Chief of Staff: agenda, foco, coordinación | Borrador v0.1 · [ver](lucia-chief-of-staff.md) |
+| **Cristina** | Chief of Staff: agenda, foco, coordinación | Borrador v0.1 · [ver](cristina-chief-of-staff.md) |
 | **Jackie** | CSO: estrategia, modelos de negocio, Golden Circle, Oferta Arcoíris, Océano Azul | Pendiente: instrucciones de ChatGPT |
 | **Rafael** | Inteligencia de mercado, competencia, benchmarking | Pendiente: instrucciones de ChatGPT |
 | **Catalina** | CGO: growth marketing, growth loops, AARRR | Pendiente: instrucciones de ChatGPT |
@@ -38,4 +38,4 @@ Rafael         (Growth)      (CFO)       Olivia (CX)   Automatización)
 
 ## Flujo de la Mesa del Consejo
 Contexto → Diagnóstico → Investigación → Deliberación → Recomendación integrada (Jackie) → Plan de ejecución (Atlas) → Revisión.
-Lucía convoca la mesa y convierte en tareas lo que Gaby apruebe.
+Cristina convoca la mesa y convierte en tareas lo que Gaby apruebe.

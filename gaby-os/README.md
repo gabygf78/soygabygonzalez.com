@@ -8,7 +8,7 @@ Sistema operativo personal y de negocios, con un consejo de agentes de IA que tr
 Primero lo usa Gaby, que es el caso de estudio #1 y mide sus resultados desde el día 1. Después se vende a profesionales independientes y consultores que buscan resultados. Por eso es **multiusuario desde el diseño**: cada usuario tiene su espacio, su catálogo de ofertas, su método y sus agentes.
 
 ## Módulos
-1. **HOY:** las 3 prioridades del día, seguimientos y el briefing de Lucía.
+1. **HOY:** las 3 prioridades del día, seguimientos y el briefing de Cristina.
 2. **Ritmo:** metas en cascada Mes → Semana → Día, con revisión semanal y mensual.
 3. **CRM y Pipeline:** valor en dólares por etapa y cadencia de seguimiento automática.
 4. **Proyectos:** tareas (lista y tablero) + páginas libres.
@@ -31,7 +31,7 @@ Moneda: USD.
 | Fase | Alcance |
 |---|---|
 | 1 · Base operativa | HOY, Tareas, Ritmo, CRM y Pipeline, Motor de Precios, Catálogo de Ofertas |
-| 2 · Equipo de IA | Agentes con herramientas, Mesa del Consejo, briefing de Lucía, modo práctica de Tony |
+| 2 · Equipo de IA | Agentes con herramientas, Mesa del Consejo, briefing de Cristina, modo práctica de Tony |
 | 3 · Automatización y voz | Notificaciones, resumen por email, PDF de propuestas, Google Calendar, modo conversación por voz |
 | 4 · Integraciones y producto | Gmail y WhatsApp, rentabilidad avanzada, suscripciones para otros usuarios |
 
